@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+That's what I like:
+- 🦸 MCU/DCEU
+- JavaScript
+- Ruby
